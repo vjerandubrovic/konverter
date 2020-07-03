@@ -1,0 +1,39 @@
+/**/
+.container{
+    background: #000
+}
+
+h1{
+    font-style: italic;
+    color: #a39327;
+}
+
+td,th{
+    border:2px solid #635910;
+    padding:5px;
+    text-align: center;
+    background:#c4c2bb;
+}
+
+table{
+    margin:5% auto;
+    
+}
+
+#valute{
+    width:20%;
+    padding:1%;
+    margin-left:20%;
+    margin-bottom:1%;
+    background:#c4c2bb;
+}
+
+#iznos{
+    padding:0.8%;
+    background:#c4c2bb;
+}
+
+#convert{
+    padding:0.8%;
+    background:#c4c2bb;
+}
